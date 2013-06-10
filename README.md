@@ -6,7 +6,7 @@ It is based on  [Storm](https://github.com/nathanmarz/storm/ "Storm")  real-time
 
 ![MongoDB to SQL ](http://eugenedvorkin.com/wp-content/gallery/cache/244__828x450_mongodbtovertica2.jpg)
 
-For details please check [wiki pages] (https://github.com/edvorkin/MongoToSQLStorm/wiki *wiki*) for the project
+For details please check [wiki pages] (https://github.com/edvorkin/MongoToSQLStorm/wiki) for the project
 
 
 
